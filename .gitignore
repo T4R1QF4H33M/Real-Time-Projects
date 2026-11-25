@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# generated data / artifacts (recreate by running the scripts)
+sentiment-analysis/data/
+sentiment-analysis/models/
+retail-sales-etl/data/
+*.db

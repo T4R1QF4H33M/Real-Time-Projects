@@ -1,0 +1,23 @@
+{
+  "best_model": "Logistic Regression",
+  "models": {
+    "Naive Bayes": {
+      "cv_accuracy_mean": 0.8506,
+      "cv_accuracy_std": 0.0166,
+      "test_accuracy": 0.825,
+      "test_f1": 0.8349
+    },
+    "Logistic Regression": {
+      "cv_accuracy_mean": 0.8775,
+      "cv_accuracy_std": 0.0243,
+      "test_accuracy": 0.8625,
+      "test_f1": 0.8655
+    },
+    "Linear SVM": {
+      "cv_accuracy_mean": 0.8756,
+      "cv_accuracy_std": 0.023,
+      "test_accuracy": 0.87,
+      "test_f1": 0.8725
+    }
+  }
+}
