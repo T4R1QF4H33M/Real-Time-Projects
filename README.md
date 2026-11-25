@@ -1,4 +1,4 @@
-# Projects — Mohammed Tariq Athar Faheem
+# Projects - Mohammed Tariq Athar Faheem
 
 Data engineering, analytics and software projects in Python and SQL. Each folder is self-contained, with its own README, `requirements.txt` and tests.
 
@@ -21,7 +21,7 @@ python -m pytest -q tests
 
 ---
 
-## Justdial Dataset — Data Cleaning notes
+## Justdial Dataset - Data Cleaning notes
 
 - Deleted duplicate rows using Excel.
 - Combined the "Price for Two" and "Rupees" columns into one and deleted the rupees column. Filled NaN values in this column with 00000.
